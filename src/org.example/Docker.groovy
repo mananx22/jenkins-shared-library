@@ -1,4 +1,4 @@
-package com.example
+package org.example
 
 // "implements Serializable "to support states if pipeline is paused or resumed
 
